@@ -5,7 +5,7 @@
 **Exchange:** Nigerian Stock Exchange (NGX)  
 **Analysis Date:** May 5, 2026  
 **Data Period:** 2021-2025 (Complete Audited/Unaudited Results)  
-**Current Price:** ₦516.95  
+**Current Price:** ₦1,880 (as of May 5, 2026)  
 
 ---
 
@@ -111,10 +111,13 @@ Owner Earnings/Share: ₦1,490 per share
 
 | Metric | Value | Industry Avg | Assessment |
 |--------|-------|--------------|------------|
-| **Stock Price** | ₦516.95 | - | - |
-| **P/E Ratio (2025E)** | 5.6x | 8-12x | **Discount** |
-| **P/S Ratio** | 0.16x | 1.0-1.5x | **Deep discount** |
-| **P/B Ratio** | ~0.15x | 1.0-2.0x | **Extreme discount** |
+| **Stock Price** | ₦1,880 | - | Near 52-week high |
+| **Market Cap** | ₦8.17 trillion | - | Major E&P |
+| **P/E Ratio (2025E)** | 20.5x | 8-12x | **Premium** |
+| **P/S Ratio** | 0.58x | 1.0-1.5x | Discount |
+| **P/B Ratio** | 2.35x | 1.0-2.0x | Fair |
+| **52-Week Range** | ₦460-2,024 | - | +309% from low |
+| **Date Listed** | Oct 14, 2024 | - | 7 months trading |
 
 **WARNING:** These ratios are dramatically different from my initial analysis because the actual financials show a much larger company than the website key figures suggested.
 
@@ -133,11 +136,11 @@ Owner Earnings/Share: ₦1,490 per share
 
 | Scenario | IV/Share | Current Price | Discount/Premium |
 |----------|----------|---------------|------------------|
-| **Conservative (No growth)** | ₦1,750 | ₦517 | **-70%** |
-| **Growth 12%** | ₦2,800 | ₦517 | **-82%** |
-| **Growth 15%** | ₦3,400 | ₦517 | **-85%** |
+| **Conservative (No growth)** | ₦1,750 | ₦1,880 | **-7%** |
+| **Growth 12%** | ₦2,800 | ₦1,880 | **+49%** |
+| **Growth 15%** | ₦3,400 | ₦1,880 | **+81%** |
 
-**Conclusion:** If the unaudited 2025 figures are accurate, the stock is **massively undervalued** at current prices.
+**Conclusion:** The stock trades near fair value in conservative scenario. Upside exists if growth thesis plays out.
 
 ---
 
@@ -249,15 +252,16 @@ The financial data extracted from the official PDFs shows:
 
 ## Recommendation (Revised)
 
-**PREVIOUS RECOMMENDATION: AVOID/SELL** (based on incomplete website data)
+**PREVIOUS RECOMMENDATION: SPECULATIVE BUY** (based on incorrect price ₦516.95)
 
-**NEW RECOMMENDATION: SPECULATIVE BUY / HOLD** 
+**CORRECTED RECOMMENDATION: HOLD / WAIT FOR BETTER ENTRY**
 
 **Rationale:**
-1. The 2024-2025 unaudited figures show a transformed company
-2. At ₦517, stock trades at 5.6x 2025 earnings, 0.16x sales
-3. Acquisition creates scale but introduces integration risk
-4. Deep value opportunity IF unaudited figures are accurate
+1. Actual price is ₦1,880 (not ₦516.95) - this changes everything
+2. At ₦1,880, stock trades at 20.5x 2025 earnings - premium to peers
+3. Stock has already rallied 309% from 52-week low of ₦460
+4. Acquisition premium appears priced in
+5. Better entry points likely (wait for pullback to ₦1,400-1,600)
 
 **Action Required:**
 1. **Verify unaudited 2025 figures** - Confirm with company investor relations
@@ -265,8 +269,11 @@ The financial data extracted from the official PDFs shows:
 3. **Review acquisition terms** - Understand debt structure and covenants
 4. **Assess integration plan** - Management's execution roadmap
 
-**Entry Point:** Current price (₦517) if unaudited figures are accurate  
-**Caution:** This is a **high-risk, high-reward** situation. The debt load is concerning.
+**Entry Point:** Wait for pullback to ₦1,400-1,600 range (25-35% below current)
+**For Existing Holders:** HOLD - Company executing transformation well
+**For New Investors:** WAIT - Valuation stretched after 309% rally
+
+**Caution:** The debt load (₦2T) and integration risk remain key concerns.
 
 ---
 
